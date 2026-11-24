@@ -9,10 +9,10 @@ Entry for the [make.fun bounty](https://make.fun/c/u-golden-heron-44-charm-the-c
 
 ## What it does
 
-`main.py` writes one original line of weather forecast (138 characters,
+`main.py` writes one original line of weather forecast (136 characters,
 inside the 140-character limit) for a city that does not exist to
 `/output/entry.txt`. The forecast is for Wobblewick: drizzle at 14°,
-the 7 bus on time for once, and pigeons with umbrellas — with a word
+the 7 bus on time for once, and pigeons sharing umbrellas — with a word
 for the bored commuter at the bus stop.
 
 The program is deterministic: two runs produce byte-identical
